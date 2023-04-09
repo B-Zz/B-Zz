@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi I‘m NothingAlr8 👋
+
+- 🐭 Focus on Golang
+- 🏬 undergraduate
+- 🏠 Blog at [nothingalr8.top](https://nothingalr8.top)
 
 <!--
 **B-Zz/B-Zz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
